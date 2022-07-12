@@ -1,0 +1,5 @@
+
+1. crear proyecto
+2. Preparar migraciones
+3. ejecutar proyecto
+4. Editar Welcome.blade:   1 tarjeta input , 1 entradas blog
