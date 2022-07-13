@@ -3,3 +3,27 @@
 2. Preparar migraciones
 3. ejecutar proyecto
 4. Editar Welcome.blade:   1 tarjeta input , 1 entradas blog
+
+
+
+
+Laravel Inertia
+
+    # laravel new proy --jet
+
+    # npm install
+    # npm run dev
+
+    λ php artisan key:generate
+
+    Crear BD 
+
+    #php artisan migrate
+
+    λ composer require inertiajs/inertia-laravel
+
+    λ npm install @inertiajs/inertia @inertiajs/inertia-vue3
+
+
+
+    #php artisan serve
